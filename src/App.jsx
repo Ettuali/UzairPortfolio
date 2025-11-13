@@ -65,7 +65,7 @@ const menuItems = [
           {/* --- WHATSAPP BUTTONS (FIXED BOTTOM-RIGHT) --- */}
           {/* 1️⃣ Personal WhatsApp Chat */}
           <a
-            href="https://wa.me/919390989676?text=Hello,%20I'm%20interested%20in%20your%20portfolio%20projects."
+            href="https://wa.me/971509849596?text=Hello,%20I'm%20interested%20in%20your%20portfolio%20projects."
             target="_blank"
             rel="noopener noreferrer"
             className="fixed bottom-10 right-4 z-50 bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg transition-transform duration-300 hover:scale-110"
